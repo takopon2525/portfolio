@@ -1,3 +1,8 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
 section {
   height: 500px;
   background-color: white;
@@ -18,12 +23,17 @@ footer {
 
 nav {
   display: flex;
+  justify-content: space-between;
 }
 
 ul {
   display: flex;
+  list-style-type: none;
+  width: 500px;
+  justify-content: space-around;
+  font-size: 30px;
 }
 
 li {
-    asdfafa
+  text-decoration: none;
 }
