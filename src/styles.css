@@ -98,3 +98,14 @@ p {
   font-weight: 300;
 }
 
+.sub-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 80px;
+}
+
+.headshot {
+  width: 300px;
+  border-radius: 150px;
+  margin-left: 80px;
+}
