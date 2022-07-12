@@ -128,7 +128,7 @@ p {
 }
 
 .project-card {
-  width: 300px;
+  width: 200px;
   height: 500px;
   box-shadow: 5px 5px 20px rgb(197, 195, 195);
   margin: 10px;
@@ -137,4 +137,11 @@ p {
 .project-container {
   display: flex;
   justify-content: space-around;
+}
+
+.sub-section-alternative {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 80px;
 }
