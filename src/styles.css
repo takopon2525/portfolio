@@ -66,6 +66,15 @@ li {
   background-color: #ef744b;
 }
 
+.socials {
+  padding-bottom: 200px;
+}
+
+.logo {
+  height: 80px;
+  margin: 30px;
+}
+
 h1 {
   margin: 0;
 }
